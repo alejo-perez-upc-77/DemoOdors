@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afcf6713-f9d9-4608-902a-5f3714384a8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/audiomix3.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/audiomix3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoodors_processing/Feature_Extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoodors_processing/Feature_Extractor.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP/audiomix3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/APP/APP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="222" column="13" selection-start-line="222" selection-start-column="8" selection-end-line="222" selection-end-column="13" />
+              <folding>
+                <element signature="e#113#124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fig</find>
+      <find>figure</find>
+      <find>CV</find>
+      <find>opencv-python</find>
+      <find>json</find>
+      <find>ti</find>
+      <find>scipy</find>
+      <find>matplotlib</find>
+      <find>numpy</find>
+      <find>pylsl</find>
+      <find>os</find>
+      <find>re</find>
+      <find>pygame</find>
+      <find>random</find>
+      <find>threading</find>
+      <find>numpydoc</find>
+      <find>current_folder</find>
+      <find>I</find>
+      <find>Baseline</find>
+      <find>for row in buffer[:, -count_time_difference:]]</find>
+      <find>interp</find>
+      <find>start_second</find>
+      <find>default</find>
+      <find>print(self</find>
+      <find>or (pygame.mixer.music.get_busy() is False)</find>
+      <find>print(self.start_second)</find>
+      <find>rescale</find>
+      <find>songs</find>
+      <find>pygame.mixer.music.get_pos()</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Shift_Len</replace>
+      <replace>Name</replace>
+      <replace>Filter_Order</replace>
+      <replace>time()#store time to compute interval</replace>
+      <replace>name</replace>
+      <replace>Feature_Computing</replace>
+      <replace>Buffer_Len</replace>
+      <replace>Buffer_Len_EEG</replace>
+      <replace>Shift_Len_EEG</replace>
+      <replace>fs_EEG</replace>
+      <replace>inletAccelerometer</replace>
+      <replace>buffer</replace>
+      <replace>Buffer_features_2_rescaled</replace>
+      <replace>denegado</replace>
+      <replace>current_folder</replace>
+      <replace>EEG_Filt</replace>
+      <replace>Preprocessing_Parameters</replace>
+      <replace>if pygame.mixer.music.get_busy() == 0</replace>
+      <replace>audio</replace>
+      <replace>if (pygame.mixer.music.get_busy() == 0) or (pygame.mixer.music.get_busy() is False)</replace>
+      <replace>print(&quot;start second&quot;, self.start_second)</replace>
+      <replace>self.start_second</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\alejo.perez\PycharmProjects\demoodors\APP\somesongs___ogg</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LSL_Parser.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Feature_computing.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/input_data.json" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Config_APP.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Config__APP.json" />
+        <option value="$PROJECT_DIR$/demoodors_processing/prueba.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Config_APP.json" />
+        <option value="$PROJECT_DIR$/demoodors_processing/APP.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/LSL_Parser.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/APP_Utilities.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/plot_signals.py" />
+        <option value="$USER_HOME$/Downloads/MemzyVisualizeVideos.py" />
+        <option value="$PROJECT_DIR$/APP/AudioMix.py" />
+        <option value="$PROJECT_DIR$/APP/pydub_test.py" />
+        <option value="$PROJECT_DIR$/APP/audiomix2.py" />
+        <option value="$PROJECT_DIR$/APP/test_mix.py" />
+        <option value="$PROJECT_DIR$/APP/audiomix.py" />
+        <option value="$PROJECT_DIR$/APP/test_ path.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Feature_Computing.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Extractor_Utilites.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Config.json" />
+        <option value="$PROJECT_DIR$/APP/Config_APP.json" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Plot_Signals.py" />
+        <option value="$PROJECT_DIR$/APP/APP_Utilities.py" />
+        <option value="$PROJECT_DIR$/APP/APP.py" />
+        <option value="$PROJECT_DIR$/demoodors_processing/Feature_Extractor.py" />
+        <option value="$PROJECT_DIR$/APP/test.py" />
+        <option value="$PROJECT_DIR$/APP/audiomix3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1577" />
+    <option name="y" value="-151" />
+    <option name="width" value="1316" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demoodors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demoodors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoodors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demoodors" type="462c0819:PsiDirectoryNode" />
+              <item name="demoodors_processing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoodors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demoodors" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoodors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demoodors" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/APP/APP.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demoodors_processing" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="demoodors" type="PythonConfigurationType" factoryName="Python">
+      <module name="demoodors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APP/APP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afcf6713-f9d9-4608-902a-5f3714384a8f" name="Default Changelist" comment="" />
+      <created>1562065282744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562065282744</updated>
+    </task>
+    <task id="LOCAL-00044" summary="v3">
+      <created>1563789988821</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1563789988821</updated>
+    </task>
+    <task id="LOCAL-00045" summary="v3">
+      <created>1563794356270</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1563794356270</updated>
+    </task>
+    <task id="LOCAL-00046" summary="v3">
+      <created>1563794365433</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1563794365433</updated>
+    </task>
+    <task id="LOCAL-00047" summary="v3">
+      <created>1563808342733</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1563808342733</updated>
+    </task>
+    <task id="LOCAL-00048" summary="v3">
+      <created>1563891660892</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1563891660892</updated>
+    </task>
+    <task id="LOCAL-00049" summary="v4">
+      <created>1563893001877</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1563893001877</updated>
+    </task>
+    <task id="LOCAL-00050" summary="v4">
+      <created>1563894462877</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1563894462878</updated>
+    </task>
+    <task id="LOCAL-00051" summary="v4">
+      <created>1563968566347</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1563968566348</updated>
+    </task>
+    <task id="LOCAL-00052" summary="v4">
+      <created>1563977455198</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1563977455198</updated>
+    </task>
+    <task id="LOCAL-00053" summary="v4">
+      <created>1563980228917</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1563980228918</updated>
+    </task>
+    <task id="LOCAL-00054" summary="v4">
+      <created>1563980579141</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1563980579141</updated>
+    </task>
+    <task id="LOCAL-00055" summary="v4">
+      <created>1563980651268</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1563980651268</updated>
+    </task>
+    <task id="LOCAL-00056" summary="v4">
+      <created>1564049868522</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1564049868523</updated>
+    </task>
+    <task id="LOCAL-00057" summary="v4">
+      <created>1564149188760</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1564149188760</updated>
+    </task>
+    <task id="LOCAL-00058" summary="v4">
+      <created>1565781434068</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1565781434069</updated>
+    </task>
+    <task id="LOCAL-00059" summary="v4">
+      <created>1565788537731</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1565788537731</updated>
+    </task>
+    <task id="LOCAL-00060" summary="v4">
+      <created>1565790878718</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1565790878718</updated>
+    </task>
+    <task id="LOCAL-00061" summary="v4">
+      <created>1565967633715</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1565967633716</updated>
+    </task>
+    <task id="LOCAL-00062" summary="v4">
+      <created>1566225463008</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1566225463010</updated>
+    </task>
+    <task id="LOCAL-00063" summary="v4">
+      <created>1566382709810</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1566382709811</updated>
+    </task>
+    <task id="LOCAL-00064" summary="v4">
+      <created>1566383163251</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1566383163251</updated>
+    </task>
+    <task id="LOCAL-00065" summary="v4">
+      <created>1566383359117</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1566383359117</updated>
+    </task>
+    <task id="LOCAL-00066" summary="v4">
+      <created>1566383549804</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1566383549804</updated>
+    </task>
+    <task id="LOCAL-00067" summary="v4">
+      <created>1566383624343</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1566383624343</updated>
+    </task>
+    <task id="LOCAL-00068" summary="v4">
+      <created>1566464324338</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1566464324339</updated>
+    </task>
+    <task id="LOCAL-00069" summary="v4">
+      <created>1566466163829</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1566466163829</updated>
+    </task>
+    <task id="LOCAL-00070" summary="v4">
+      <created>1566467411753</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1566467411753</updated>
+    </task>
+    <task id="LOCAL-00071" summary="v4">
+      <created>1566469456184</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1566469456185</updated>
+    </task>
+    <task id="LOCAL-00072" summary="v4">
+      <created>1566486195781</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1566486195781</updated>
+    </task>
+    <task id="LOCAL-00073" summary="v4">
+      <created>1566559075412</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1566559075413</updated>
+    </task>
+    <task id="LOCAL-00074" summary="v4">
+      <created>1566898662132</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1566898662132</updated>
+    </task>
+    <task id="LOCAL-00075" summary="v4">
+      <created>1566906525236</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1566906525236</updated>
+    </task>
+    <task id="LOCAL-00076" summary="v4">
+      <created>1566912975077</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1566912975077</updated>
+    </task>
+    <task id="LOCAL-00077" summary="v4">
+      <created>1566986969859</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1566986969860</updated>
+    </task>
+    <task id="LOCAL-00078" summary="v4">
+      <created>1566990461636</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1566990461636</updated>
+    </task>
+    <task id="LOCAL-00079" summary="v4">
+      <created>1567175456743</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1567175456744</updated>
+    </task>
+    <task id="LOCAL-00080" summary="v4">
+      <created>1567429022569</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1567429022569</updated>
+    </task>
+    <task id="LOCAL-00081" summary="v4">
+      <created>1567431947450</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1567431947450</updated>
+    </task>
+    <task id="LOCAL-00082" summary="v4">
+      <created>1567432069547</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1567432069548</updated>
+    </task>
+    <task id="LOCAL-00083" summary="v4">
+      <created>1567432177390</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1567432177390</updated>
+    </task>
+    <task id="LOCAL-00084" summary="v4">
+      <created>1567432280156</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1567432280156</updated>
+    </task>
+    <task id="LOCAL-00085" summary="v4">
+      <created>1567436144358</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1567436144358</updated>
+    </task>
+    <task id="LOCAL-00086" summary="v4">
+      <created>1567436266818</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1567436266818</updated>
+    </task>
+    <task id="LOCAL-00087" summary="v4">
+      <created>1567436710088</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1567436710088</updated>
+    </task>
+    <task id="LOCAL-00088" summary="v4">
+      <created>1567439034835</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1567439034835</updated>
+    </task>
+    <task id="LOCAL-00089" summary="v4">
+      <created>1567502706475</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1567502706476</updated>
+    </task>
+    <task id="LOCAL-00090" summary="v4">
+      <created>1567505156435</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1567505156435</updated>
+    </task>
+    <task id="LOCAL-00091" summary="v4">
+      <created>1567505510389</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1567505510389</updated>
+    </task>
+    <task id="LOCAL-00092" summary="v4">
+      <created>1567505526090</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1567505526090</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1688" y="-134" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4837626" visible="true" weight="0.11097708" />
+      <window_info id="Structure" order="1" sideWeight="0.5162374" side_tool="true" weight="0.11097708" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281075" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.25643897" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.24076147" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.32138857" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.23964165" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50030136" side_tool="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4996986" weight="0.36394176" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.31243002" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/py_stareeglab" />
+    </ignored-roots>
+    <MESSAGE value="v1" />
+    <MESSAGE value="v2" />
+    <MESSAGE value="v3" />
+    <MESSAGE value="v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="v4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/Config_APP.py" />
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/APP.py" />
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/Config_APP.json" />
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/APP_Utilities.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/glob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="5412" lean-forward="true" selection-start-line="5412" selection-end-line="5412" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/MemzyVisualizeVideos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="12" selection-end-line="128" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pydub/playback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/976367474/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="3786" column="6" selection-start-line="3786" selection-start-column="6" selection-end-line="3786" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-vlc-1.1.2/vlc.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/976367474/pygame/mixer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="263" column="47" lean-forward="true" selection-start-line="263" selection-start-column="47" selection-end-line="263" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Anaconda3/Lib/site-packages/py_stareeglab-0.0.1-py3.7.egg!/py_stareeglab/feature_extraction/spectral_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="70" column="101" selection-start-line="70" selection-start-column="81" selection-end-line="70" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/pydub_test.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/pathlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1135" column="8" selection-start-line="1135" selection-start-column="8" selection-end-line="1135" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pygame/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="387" selection-start-line="387" selection-end-line="387" />
+          <folding>
+            <element signature="e#10795#10818#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/test_mix.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pylsl/pylsl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="41" column="14" selection-start-line="41" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/statsmodels/tsa/descriptivestats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="513" column="4" selection-start-line="513" selection-start-column="4" selection-end-line="513" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Anaconda3/Lib/site-packages/py_stareeglab-0.0.1-py3.7.egg!/py_stareeglab/data_preprocessing/data_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/BackgroundVA14.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/BackgroundVA13.png" />
+    <entry file="file://$PROJECT_DIR$/APP/audiomix2.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="277" column="32" selection-start-line="277" selection-start-column="26" selection-end-line="277" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/976367474/pygame/mixer_music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1103">
+          <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/audiomix.py" />
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/Config_APP.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/lib/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="1287" column="46" selection-start-line="1287" selection-start-column="38" selection-end-line="1287" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/Plot_Signals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/Extractor_Utilites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="71" column="66" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/Feature_Extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#95#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoodors_processing/Config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/APP_Utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="118" column="4" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/audiomix3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/APP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="222" column="13" selection-start-line="222" selection-start-column="8" selection-end-line="222" selection-end-column="13" />
+          <folding>
+            <element signature="e#113#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

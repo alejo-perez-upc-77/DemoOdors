@@ -1,0 +1,6 @@
+numpy>=1.16.2
+pylsl>=1.13.1
+opencv-python>=4.1.0.25
+pygame>=1.9.6
+scipy>=1.2.1
+matplotlib>=3.0.3

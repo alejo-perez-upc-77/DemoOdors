@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/py_stareeglab/py_stareeglab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py_stareeglab/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py_stareeglab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demoodors_processing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Include" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___mp3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___ogg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___wav" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/dictionaries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___mp3/Content" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___mp3/Disgusting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___mp3/Happy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___mp3/Melancholic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___ogg/Content" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___ogg/Disgusting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___ogg/Happy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APP/somesongs___ogg/Melancholic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (demoodors)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

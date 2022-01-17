@@ -1,0 +1,43 @@
+
+{
+  "Input_Variables": [
+    {
+      "Outlet_Name_NIC": "alejo",
+      "Rate_Parameters": {
+                "Shift_Len": 1,
+                "Buffer_Len": 5
+                      },
+      "Preprocessing_Parameters": {
+                "Filter_Type": "FIR",
+                "IIR_Transient": 4,
+                "Cutoff_Frequency_Low": 2,
+                "Cutoff_Frequency_High": 45,
+                "Filter_Order": 500,
+                "Channel_Reference": "average",
+                "Artefact_Threshold": 5
+      },
+      "Feature_Calculation": "standard_8",
+
+      "Debug_Rate": 10,
+      "Debug_Plot": 1,
+      "Power_Bands":
+                       [{"Name": "Delta", "fc1": 0.3, "fc2": 4.0}, {"Name": "Theta", "fc1": 4.0, "fc2": 8.0},
+                        {"Name": "alpha", "fc1": 8.0, "fc2": 13.0}, {"Name": "alpha1", "fc1": 8.0, "fc2": 10.0},
+                        {"Name": "alpha2", "fc1": 10.0, "fc2": 13.0}, {"Name": "Beta1", "fc1": 13.0, "fc2": 22.0},
+                        {"Name": "Beta2", "fc1": 22.0, "fc2": 32.0}, {"Name": "Gamma", "fc1": 30.0, "fc2": 40.0},
+                        {"Name": "HighGamma", "fc1": 80.0, "fc2": 100.0}, {"Name": "Custom", "fc1": 0.5, "fc2": 10.0}],
+
+      "Outlet_Push": {
+               "Outlet_Name": "Alejo_Push",
+               "Outlet_Source_ID": "NeuroStar08035"
+
+
+      }
+
+}
+    ]
+}
+
+
+
+

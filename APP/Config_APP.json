@@ -1,0 +1,20 @@
+{
+  "Input_Variables": [
+      {"Outlet_Name_LSL_Parser": "Alejo_Push",
+       "Rate_Parameters": {
+                "td":5,
+                "td2": 10,
+                "td3": 180
+                      },
+       "Feature_Fusion":{
+         "Feature_Fusion_1": "",
+         "Feature_Fusion_2": " ",
+         "Standard_Param":  "standard_8"
+       },
+      "Song_Params":{
+        "Hysteresis": 0.2
+      }}
+    ]
+}
+
+
